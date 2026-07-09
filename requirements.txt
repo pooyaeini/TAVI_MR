@@ -1,0 +1,14 @@
+﻿python>=3.9
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+xgboost>=2.0
+optuna>=3.4
+shap>=0.42
+lifelines>=0.27
+matplotlib>=3.7
+seaborn>=0.12
+openpyxl>=3.1
+optuna-integration>=3.4
+scipy>=1.11
+joblib>=1.3
