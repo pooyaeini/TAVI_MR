@@ -1,6 +1,5 @@
 # TAVI Residual MR & Mortality Prediction Pipeline
 
-# TAVI_MR_ML_Pipeline
 
 A complete, reproducible machine learning pipeline for predicting residual mitral regurgitation (MR) and landmark mortality after Transcatheter Aortic Valve Implantation (TAVI).
 
